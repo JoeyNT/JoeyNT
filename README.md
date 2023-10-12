@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/joaocuomoscanzi/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</a> <a src=https://www.linkedin.com/in/joaocuomoscanzi/ ></h3>
 <p align="left">
 </p>
 
