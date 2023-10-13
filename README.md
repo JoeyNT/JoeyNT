@@ -24,3 +24,4 @@
     <img border="0" src="https://github-readme-streak-stats.herokuapp.com/?user=joeynt&" alt="joeynt">
     <img class="cornerimage" border="0" src="https://github-readme-stats.vercel.app/api?username=joeynt&show_icons=true&locale=en" alt="joeynt">
 <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeynt&show_icons=true&locale=en&layout=compact" alt="joeynt" width="2000" height="200">
