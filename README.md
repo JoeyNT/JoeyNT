@@ -1,7 +1,7 @@
 [![MasterHead](https://solcyber.com/wp-content/uploads/2022/02/SOL-SolCyber-Cybersecurity-Predictions-for-2022-Blog-Banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Joey Cuomo </h1>
 <h3 align="center">A BSBA student (Information Systems) from Italy, with a passion for Cybersecurity and Data Analysis</h3>
-<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
+<img align="right" width="350" height="250" src="https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeynt&label=Profile%20views&color=0e75b6&style=flat" alt="joeynt" /> </p>
 
